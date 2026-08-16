@@ -26,14 +26,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Akshad213/75DaysofCode/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshad213/75DaysofCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Akshad213/75DaysofCode/tree/master/0496-next-greater-element-i) |
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Akshad213/75DaysofCode/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/Akshad213/75DaysofCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Akshad213/75DaysofCode/tree/master/0496-next-greater-element-i) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Akshad213/75DaysofCode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Akshad213/75DaysofCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
