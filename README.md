@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Akshad213/75DaysofCode/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshad213/75DaysofCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Akshad213/75DaysofCode/tree/master/0496-next-greater-element-i) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Akshad213/75DaysofCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Akshad213/75DaysofCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshad213/75DaysofCode/tree/master/0151-reverse-words-in-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Akshad213/75DaysofCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Akshad213/75DaysofCode/tree/master/0007-reverse-integer) |
+## Counting
+|  |
+| ------- |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Akshad213/75DaysofCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
