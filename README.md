@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Akshad213/75DaysofCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Akshad213/75DaysofCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Akshad213/75DaysofCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Akshad213/75DaysofCode/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/Akshad213/75DaysofCode/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
