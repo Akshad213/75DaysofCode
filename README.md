@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Akshad213/75DaysofCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Akshad213/75DaysofCode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Akshad213/75DaysofCode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Akshad213/75DaysofCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Recursion
 |  |
 | ------- |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Akshad213/75DaysofCode/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/Akshad213/75DaysofCode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Akshad213/75DaysofCode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Akshad213/75DaysofCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Akshad213/75DaysofCode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Akshad213/75DaysofCode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Akshad213/75DaysofCode/tree/master/2104-sum-of-subarray-ranges) |
 ## String
 |  |
 | ------- |
