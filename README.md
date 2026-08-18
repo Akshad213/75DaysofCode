@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Akshad213/75DaysofCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Akshad213/75DaysofCode/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/Akshad213/75DaysofCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Akshad213/75DaysofCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Akshad213/75DaysofCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshad213/75DaysofCode/tree/master/0151-reverse-words-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Akshad213/75DaysofCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Akshad213/75DaysofCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Akshad213/75DaysofCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
