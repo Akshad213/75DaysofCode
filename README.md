@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Akshad213/75DaysofCode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Akshad213/75DaysofCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Akshad213/75DaysofCode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Akshad213/75DaysofCode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Akshad213/75DaysofCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Akshad213/75DaysofCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Akshad213/75DaysofCode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Akshad213/75DaysofCode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Akshad213/75DaysofCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Akshad213/75DaysofCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Akshad213/75DaysofCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshad213/75DaysofCode/tree/master/0151-reverse-words-in-a-string) |
+| [0402-remove-k-digits](https://github.com/Akshad213/75DaysofCode/tree/master/0402-remove-k-digits) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Akshad213/75DaysofCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sorting
 |  |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/Akshad213/75DaysofCode/tree/master/0907-sum-of-subarray-minimums) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Akshad213/75DaysofCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
